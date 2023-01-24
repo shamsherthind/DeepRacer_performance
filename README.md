@@ -16,3 +16,8 @@
 Feel free to use, distribute, and alter the code as you like.
 
 This is a finished university project. Therefore, we will not be maintaining the code any more.
+
+##  notes
+*Use python3.6 env to install the required packages
+*download latest tracks from https://github.com/aws-deepracer-community/deepracer-simapp/tree/master/bundle/deepracer_simulation_environment/share/deepracer_simulation_environment/routes
+* pip install numpy shapely pandas matplotlib seaborn sklearn scikit-learn
